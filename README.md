@@ -19,8 +19,8 @@ progreso con localStorage.
 
 
 # Contacta conmigo 🧭​
-[Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/)
-[Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/)
+[Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/).
+[Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/).
 Email: adaminzunza3@gmail.com
 Telefono: 3320664573 
 
