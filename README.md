@@ -27,8 +27,8 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 
 
 # Proyectos Destacados 🌟
-📈 [Graphic Habits](https://habitosapp.netlify.app/)
-[Codigo](https://github.com/Cuandoyolabi/GraphicHabits)
+📈 [Graphic Habits](https://habitosapp.netlify.app/)<br>
+Repositorio del proyecto: [Codigo](https://github.com/Cuandoyolabi/GraphicHabits)
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
 progreso con localStorage.
 //Poner un segundo y tercero.
