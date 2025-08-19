@@ -17,8 +17,8 @@ Una app de habitos que permite rastrear tu progreso mediante una grafica y guard
 progreso con localStorage.
 //Poner un segundo y tercero.
 
-# Estadisticas de motivacion y disciplina
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+# Estadisticas de Github
+![Cuandoyolabi](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 
 
 
