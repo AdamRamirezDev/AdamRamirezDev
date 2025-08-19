@@ -35,10 +35,10 @@ progreso con localStorage.
 
 
 # Contacta conmigo 🧭​
-💻 Mi perfil de Linkedin: [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/) <br>
-🌐 Mira mi portafolio! [Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/) <br>
-📩 Email: adaminzunza3@gmail.com ​<br>
-📱  Telefono: 3320664573 <br>
+💻 **Mi perfil de Linkedin:** [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/) <br>
+🌐 **Mira mi portafolio!** [Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/) <br>
+📩 **Email: adaminzunza3@gmail.com** ​<br>
+📱 **Telefono: 3320664573** <br>
 
 # Un poco sobre mi 💫
 Me gusta ser cada dia mejor en mi campo, reir, salir con amigos, hacer ejercicio y 
