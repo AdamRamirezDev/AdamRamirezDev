@@ -18,7 +18,7 @@ progreso con localStorage.
 //Poner un segundo y tercero.
 
 # Estadisticas de Github
-![Adam Ramirez](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamRamirez&show_icons=true&theme=radical)
 
 
 
