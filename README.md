@@ -12,7 +12,7 @@ Me especializo en el buen responsive, buenas practicas y creacion de projectos v
 
 
 # Proyectos Destacados 🌟
-- 📝 [To-Do List con TypeScript](https://github.com/usuario/todo-list)  
+📝 [To-Do List con TypeScript](https://github.com/usuario/todo-list)  
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
 progreso con localStorage.
 //Poner un segundo y tercero.
