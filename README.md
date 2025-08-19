@@ -6,6 +6,7 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 
 # Tecnologias 🔎
 **Lenguajes:** JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 **Frameworks:** Angular, Bootstrap  
 **Herramientas:** Git, GitHub, VS Code  
 **Extras:** Responsive Design, Consumo de APIs, Buenas prácticas de Frontend
@@ -16,11 +17,6 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
 progreso con localStorage.
 //Poner un segundo y tercero.
-
-# Estadisticas de Github
-![Cuandoyolabi](https://github-readme-stats.vercel.app/api?username=Cuandoyolabi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuandoyolabi&layout=compact&theme=radical)
 
 
 # Contacta conmigo 🧭​
