@@ -20,6 +20,7 @@ progreso con localStorage.
 # Estadisticas de Github
 ![Cuandoyolabi](https://github-readme-stats.vercel.app/api?username=Cuandoyolabi&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuandoyolabi&layout=compact&theme=radical)
 
 
 # Contacta conmigo 🧭​
