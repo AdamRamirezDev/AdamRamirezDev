@@ -4,7 +4,7 @@
 Soy programador Frontend enfocado en el diseño UI/UX, creo bonitas interfaces con diseño limpio. 
 Me especializo en el buen responsive, buenas practicas y creacion de projectos variados y cada vez mas complejos.
 
-# Tech stack 🔎
+# Tecnologias 🔎
 **Lenguajes:** JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind  
 **Frameworks:** Angular, Bootstrap  
 **Herramientas:** Git, GitHub, VS Code  
