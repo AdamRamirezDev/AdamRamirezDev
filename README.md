@@ -1,5 +1,5 @@
 # Hola soy Adam Ramirez!
-### Frontend Developer | Angular | TypeScript | JavaScript
+### Frontend Developer | Angular | TypeScript | JavaScript 💻
 
 Soy programador Frontend enfocado en el diseño UI/UX, creo bonitas interfaces con diseño limpio. 
 Me especializo en el buen responsive, buenas practicas y creacion de projectos variados y cada vez mas complejos.
@@ -19,10 +19,10 @@ progreso con localStorage.
 
 
 # Contacta conmigo 🧭​
-[Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/)<br>
-[Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/)<br>
-Email: adaminzunza3@gmail.com<br>
-Telefono: 3320664573 <br>
+Mi perfil de Linkedin: [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/) 💻<br>
+Mira mi portafolio! [Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/) 👜<br>
+Email: adaminzunza3@gmail.com 📩​<br>
+Telefono: 3320664573 📱 <br>
 
 ## Un poco sobre mi 💫
 Me gusta ser cada dia mejor en mi campo, reir y salir con amigos, hacer ejercicioy 
