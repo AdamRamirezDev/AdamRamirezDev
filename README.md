@@ -18,7 +18,7 @@ progreso con localStorage.
 //Poner un segundo y tercero.
 
 # Estadisticas de Github
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamRamirez&show_icons=true&theme=radical)
+![Cuandoyolabi](https://github-readme-stats.vercel.app/api?username=AdamRamirez&show_icons=true&theme=radical)
 
 
 
