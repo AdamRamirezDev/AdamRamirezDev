@@ -1,8 +1,8 @@
 # Hola soy Adam Ramirez!
 ### Frontend Developer | Angular | TypeScript | JavaScript 💻
 
-### Soy un Frontend Developer enfocado en UI/UX, apasionado por crear interfaces modernas, limpias y funcionales.
-### Me especializo en el buen responsive, buenas practicas y creacion de proyectos variados y cada vez mas complejos.
+Soy un Frontend Developer enfocado en UI/UX, apasionado por crear interfaces modernas, limpias y funcionales.
+Me especializo en el buen responsive, buenas practicas y creacion de proyectos variados y cada vez mas complejos.
 
 # Tecnologias 🔎
 **Lenguajes:** JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind  
