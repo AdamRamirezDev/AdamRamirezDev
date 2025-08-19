@@ -7,6 +7,8 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 # Tecnologias 🔎
 **Lenguajes:** JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind  
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 **Frameworks:** Angular, Bootstrap  
 **Herramientas:** Git, GitHub, VS Code  
 **Extras:** Responsive Design, Consumo de APIs, Buenas prácticas de Frontend
