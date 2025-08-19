@@ -4,7 +4,7 @@
 Soy programador Frontend enfocado en el diseño UI/UX, creo bonitas interfaces con diseño limpio. 
 Me especializo en el buen responsive, buenas practicas y creacion de projectos variados y cada vez mas complejos.
 
-##Tech stack 🔎
+# Tech stack 🔎
 **Lenguajes:** JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind  
 **Frameworks:** Angular, Bootstrap  
 **Herramientas:** Git, GitHub, VS Code  
@@ -17,7 +17,7 @@ progreso con localStorage.
 //Poner un segundo y tercero.
 
 
-## Contacta conmigo 🧭​
+# Contacta conmigo 🧭​
 [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/)
 [Portafolio](https://cuandoyolabi.github.io/PortafolioFrontend/)
 Email: adaminzunza3@gmail.com
