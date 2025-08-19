@@ -5,7 +5,7 @@ Soy un Frontend Developer enfocado en UI/UX, apasionado por crear interfaces mod
 Me especializo en el buen responsive, buenas practicas y creacion de proyectos variados y cada vez mas complejos.
 
 # Tecnologias 🔎
-## **Lenguajes:**<br>
+**Lenguajes:**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,14 +13,14 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-## **Frameworks:**<br>
+**Frameworks:**<br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br>
-## **Herramientas:**<br>
+**Herramientas:**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
-## **Extras:**<br>
+**Extras:**<br>
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-22A699?style=for-the-badge&logo=responsiveness&logoColor=white)
 ![API](https://img.shields.io/badge/Consumo_de_APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Best Practices](https://img.shields.io/badge/Best_Practices-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
