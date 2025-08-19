@@ -10,6 +10,7 @@ Me especializo en el buen responsive, buenas practicas y creacion de projectos v
 **Herramientas:** Git, GitHub, VS Code  
 **Extras:** Responsive Design, Consumo de APIs, Buenas prácticas de Frontend
 
+
 # Proyectos Destacados 🌟
 - 📝 [To-Do List con TypeScript](https://github.com/usuario/todo-list)  
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
