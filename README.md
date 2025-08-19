@@ -12,14 +12,14 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
-**Frameworks:**<br>
+## **Frameworks:**<br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br>
-**Herramientas:**<br>
+## **Herramientas:**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
-**Extras:**<br>
+## **Extras:**<br>
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-22A699?style=for-the-badge&logo=responsiveness&logoColor=white)
 ![API](https://img.shields.io/badge/Consumo_de_APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Best Practices](https://img.shields.io/badge/Best_Practices-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
