@@ -29,7 +29,7 @@ Me especializo en el buen responsive, buenas practicas y creacion de proyectos v
 
 # Proyectos Destacados 🌟
 [Graphic Habits](https://habitosapp.netlify.app/) 📈<br>
-Repositorio del proyecto: [Codigo](https://github.com/Cuandoyolabi/GraphicHabits)
+Repositorio del proyecto: [Codigo](https://github.com/Cuandoyolabi/GraphicHabits)<br>
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
 progreso con localStorage.<br>
 [Piedra_papel_tijeras](https://github.com/AdamRamirezDev/Piedra_papel_tijeras) 🪨 📜 ✂️ <br>
