@@ -33,7 +33,10 @@ Repositorio del proyecto: [Codigo](https://github.com/Cuandoyolabi/GraphicHabits
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
 progreso con localStorage.
 //Poner un segundo y tercero.
-
+🪨 📜 ✂️ [Piedra_papel_tijeras](https://github.com/AdamRamirezDev/Piedra_papel_tijeras)<br>
+Repositorio del proyecto:(https://piedrapapeltijerasss.netlify.app/)<br>
+Aplicación inspirada en el clásico juego de Piedra, Papel o Tijeras.
+El usuario elige una ficha y el sistema selecciona aleatoriamente la del oponente.
 
 # Contacta conmigo 🧭​
 💻 **Mi perfil de Linkedin:** [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/) <br>
