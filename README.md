@@ -39,7 +39,7 @@ El usuario elige una ficha y el sistema selecciona aleatoriamente la del oponent
 
 # Contacta conmigo 🧭​
 💻 **Mi perfil de Linkedin:** [Linkedin](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/) <br>
-🌐 **Mira mi portafolio!** [Portafolio](https://github.com/AdamRamirezDev/PortafolioFrontend) <br>
+🌐 **Mira mi portafolio!** [Portafolio](https://adamramirezdev.github.io/PortafolioFrontend/) <br>
 📩 **Email: adaminzunza3@gmail.com** ​<br>
 📱 **Telefono: 3320664573** <br>
 
