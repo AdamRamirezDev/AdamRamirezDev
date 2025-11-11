@@ -33,9 +33,8 @@ Repositorio del proyecto: [Codigo](https://github.com/Cuandoyolabi/GraphicHabits
 Una app de habitos que permite rastrear tu progreso mediante una grafica y guarda el
 progreso con localStorage.<br>
 [MusicAppReact]() 🎹​🎵​<br>
-Repositorio del proyecto: [Codigo]()<br>
+Repositorio del proyecto: [Codigo](https://github.com/AdamRamirezDev/MusicAppReact)<br>
 Aplicación web React + TypeScript que muestra álbumes, canciones y playlists populares de Deezer usando un pequeño proxy Express local para evitar CORS y unificar respuestas. Permite buscar, ver pistas de un álbum o playlist y reproducir previews. <br>
-
 [Piedra_papel_tijeras](https://piedrapapeltijerass.netlify.app/) 🪨 📜 ✂️ <br>
 Repositorio del proyecto: [Codigo](https://github.com/AdamRamirezDev/Piedra_papel_tijeras)<br>
 Aplicación inspirada en el clásico juego de Piedra, Papel o Tijeras.
