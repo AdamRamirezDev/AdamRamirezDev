@@ -46,7 +46,7 @@ Project repository: [Code](https://github.com/AdamRamirezDev/Piedra_papel_tijera
 An application inspired by the classic Rock, Paper, Scissors game. The user selects an option and the system randomly chooses the opponent's move.<br>
 
 # Contact Me 🧭
-💻 **My LinkedIn profile:** [LinkedIn](https://www.linkedin.com/in/adam-samuel-inzunza-ramirez/) <br>
+💻 **My LinkedIn profile:** [LinkedIn](https://www.linkedin.com/in/adamramirezz/) <br>
 🌐 **Check out my portfolio!** [Portfolio](https://adamramirezdev.github.io/PortafolioFrontend/) <br>
 📩 **Email:** adaminzunza3@gmail.com <br>
 📱 **Phone:** +52 3320664573 <br>
