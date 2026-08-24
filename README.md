@@ -1,5 +1,5 @@
 # Hola soy Adam Ramirez! 🤓​
-### Frontend Developer | JavaScript | TypeScript | C# | .Net 💻
+### Full Stack Developer | JavaScript | TypeScript | C# | .Net 💻
 
 I am a full-stack developer focused on building clean, modern, and responsive applications. I have experience with frontend development, UI/UX, and backend development using C# and .NET, as well as SQL databases. I enjoy building well-structured projects and continuously improving my skills.
 
