@@ -49,7 +49,7 @@ An application inspired by the classic Rock, Paper, Scissors game. The user sele
 # Contact Me 🧭
 💻 **My LinkedIn profile:** [LinkedIn](https://www.linkedin.com/in/adamramirezz/) <br>
 🌐 **Check out my portfolio!** [Portfolio](https://adamramirezdev.github.io/PortafolioFrontend/) <br>
-📝 **My Blog!** [Blog]() <br>
+📝 **My Blog!** [Blog](https://hashnode.com/@adamramirezdev) <br>
 📩 **Email:** adaminzunza3@gmail.com <br>
 📱 **Phone:** +52 3320664573 <br>
 
