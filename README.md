@@ -49,8 +49,10 @@ An application inspired by the classic Rock, Paper, Scissors game. The user sele
 # Contact Me 🧭
 💻 **My LinkedIn profile:** [LinkedIn](https://www.linkedin.com/in/adamramirezz/) <br>
 🌐 **Check out my portfolio!** [Portfolio](https://adamramirezdev.github.io/PortafolioFrontend/) <br>
+📝 **My Blog!** [Blog]() <br>
 📩 **Email:** adaminzunza3@gmail.com <br>
 📱 **Phone:** +52 3320664573 <br>
+
 
 # A bit about me 💫
 I enjoy improving every day in my field, having fun, spending time with friends, working out, and constantly setting higher goals ✈️
